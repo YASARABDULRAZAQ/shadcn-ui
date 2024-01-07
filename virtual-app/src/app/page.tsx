@@ -13,7 +13,7 @@ export default function Home() {
       The People of the Kingdom
     </h2>
     <p className="leading-7 ">
-    I'm a student at PIAIC and a web developer. I work with TypeScript and Next.js for development. I've created a web using Shadcn UI.
+    Im a student at PIAIC and a web developer. I work with TypeScript and Next.js for development. {"I've"} created a web using Shadcn UI.
     </p>
     <div className="flex gap-7">
     <Button> Primary</Button>
