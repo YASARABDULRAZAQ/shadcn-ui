@@ -8,7 +8,7 @@ import{EnvelopeOpenIcon} from "@radix-ui/react-icons"
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center p-24">
-     <div> Hello i am Yasar</div>
+     <div> Hello i am Yasar From UMT</div>
      <h2 className=" border-b pb-2 text-5xl font-semibold tracking-tight ">
       The People of the Kingdom
     </h2>
